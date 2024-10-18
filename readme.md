@@ -1,4 +1,4 @@
-##proje 10##
-
-###Geliştiriciler##
--Aslıhan UZUN 
+# proje 10
+Buraya proje bilgileri yazılacak
+## Geliştiriciler
+* Aslıhan UZUN 
