@@ -2,4 +2,5 @@
 Buraya proje bilgileri yazılacak
 ## Geliştiriciler
 * Aslıhan UZUN 
-* Nazlıcan YAZICI
+* Özgenur Kasap
+* Nazlı YAZICI
