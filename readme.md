@@ -2,3 +2,4 @@
 Buraya proje bilgileri yazılacak
 ## Geliştiriciler
 * Aslıhan UZUN 
+* Nazlıcan YAZICI
