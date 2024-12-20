@@ -23,15 +23,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
-</body>
-</html>
 
 <?php
   include_once "navbar.php";
-  include_once "content.php";
-  include_once "jquery.php";
-  include_once "controlsidebar.php";
   include_once "sidebar.php";
+  include_once "content.php";
+  include_once "controlsidebar.php";
+  include_once "jquery.php";
   include_once "footer.php";
   ?>
 
@@ -43,5 +41,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
  ?>
  </div>
 
+ </body>
+</html>
 
 
