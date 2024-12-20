@@ -100,6 +100,7 @@ abbr[data-original-title] {
   text-decoration-skip-ink: none;
 }
 
+
 address {
   margin-bottom: 1rem;
   font-style: normal;
@@ -15541,7 +15542,7 @@ body.text-sm .control-sidebar {
 }
 
 .navbar-light {
-  background-color: #f8f9fa;
+  background-color: #262626;
 }
 
 .navbar-dark {
