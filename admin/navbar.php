@@ -2,7 +2,7 @@
  <nav class="main-header navbar navbar-expand-md  navbar-dark">
     <div class="container">
       <a href="../../index3.html" class="navbar-brand">
-        <img src="/aşçıı.png" class="brand-image img-circle elevation-3" style="opacity: .8  width:80px;height: 50px" >
+        <img src="/aşçıı.png" class="brand-image img-circle elevation-3" style="opacity: .8  width:80px;height: 50px">
       <span class="l1" >KARNAVAL CAFE</span>
       </a>
 
@@ -38,7 +38,7 @@
         <!-- SEARCH FORM -->
         <form class="form-inline ml-0 ml-md-3">
           <div class="input-group input-group-sm">
-            <input class="form-control form-control-navbar" type="search" placeholder="Search" aria-label="Search">
+            <input class="form-control form-control-navbar" type="search" placeholder="Search" aria-label="Search" style="width:200px;height: 30px">
             <div class="input-group-append">
               <button class="btn btn-navbar" type="submit">
                 <i class="fas fa-search"></i>
