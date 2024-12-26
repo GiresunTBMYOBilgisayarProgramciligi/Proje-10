@@ -1,7 +1,7 @@
  <!-- Navbar -->
  <nav class="main-header navbar navbar-expand-md  navbar-dark">
     <div class="container">
-      <a href="../../index3.html" class="navbar-brand">
+      <a href="/index.html" class="navbar-brand">
         <img src="/aşçıı.png" class="brand-image img-circle elevation-3" style="opacity: .8  width:80px;height: 50px">
       <span class="l1" >KARNAVAL CAFE</span>
       </a>
@@ -17,19 +17,19 @@
             <a class="nav-link" data-widget="pushmenu" href="#" role="button"></a>
           </li>
           <li class="nav-item">
-            <a href="index3.html" class="nav-link">Anasayfa</a>
+          <a href="/admin" class="nav-link">Anasayfa</a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">Menüler</a>
+            <a href="/admin" class="nav-link">Menüler</a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">Galeri</a>
+            <a href="/admin" class="nav-link">Galeri</a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">Hakkımızda</a>
+            <a href="/admin" class="nav-link">Hakkımızda</a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">İletişim</a>
+            <a href="/admin" class="nav-link">İletişim</a>
           </li>
             </ul>
           </li>

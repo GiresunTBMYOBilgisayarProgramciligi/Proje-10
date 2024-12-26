@@ -56,14 +56,11 @@ scratch. This page gets rid of all links and provides the needed markup only.
   include_once "yorum.php";
   include_once "sikayet.php";
   include_once "öneri.php";
+  include_once 'init.php';
+  
   ?>
 
-  <div class="container">
-    <?php
-  if($_GET){
-    print_r($_GET);
-  }
- ?>
+ 
  </div>
 
  </body>
